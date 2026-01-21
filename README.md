@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
 <!--
 **amansingh903/amansingh903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
