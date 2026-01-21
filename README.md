@@ -1,7 +1,7 @@
 # Hi there,
 
 ###  Automation Enthusiast & AI/ML Developer
-I am a highly motivated **AI/ML Developer** and **Automation Enthusiast**. I have a strong foundation in building, deploying, and optimizing machine learning models to solve real-world problems involving health diagnostics and intelligent bots. Currently, I am a **Bachelor of Engineering** student at **Chandigarh University** (2022-2026).
+An **AI/ML Developer** and **Automation Enthusiast**. Not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
 
 ---
 
@@ -46,9 +46,7 @@ I am a highly motivated **AI/ML Developer** and **Automation Enthusiast**. I hav
 ---
 
 ###  How to reach me:
-* **LinkedIn:** [linkedin.com/in/aman-2e](https://linkedin.com/in/aman-2e) [cite: 5]
-* **Email:** [amansingh72255@gmail.com](mailto:amansingh72255@gmail.com) [cite: 5]
-* **GitHub:** [github.com/amansingh903](https://github.com/amansingh903) [cite: 5]
+* **LinkedIn:** [linkedin.com/in/aman-2e](https://linkedin.com/in/aman-2e)
+* **Email:** [amansingh72255@gmail.com](mailto:amansingh72255@gmail.com) 
+* **GitHub:** [github.com/amansingh903](https://github.com/amansingh903) 
 
----
-*“When I'm not coding, you can find me on the chess board or the badminton court.”* ♟️🏸
