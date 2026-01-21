@@ -1,7 +1,7 @@
 # Hi there,
 
 ###  Automation Enthusiast & AI/ML Developer
-An **AI/ML Developer** and **Automation Enthusiast**. Not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
+Not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
 
 ---
 
