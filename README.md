@@ -1,7 +1,7 @@
-# Hi there, I'm Aman Singh! 👋
+# Hi there,
 
 ###  Automation Enthusiast & AI/ML Developer
-[cite_start]I am a highly motivated AI/ML Developer based in **New Delhi, India**[cite: 2, 6]. [cite_start]Currently, I am pursuing my **Bachelor of Engineering** at **Chandigarh University** (2022-2026)[cite: 8, 9, 10]. [cite_start]I focus on building, deploying, and optimizing machine learning models to solve real-world problems in health diagnostics and intelligent automation[cite: 24, 25].
+I am a highly motivated **AI/ML Developer** and **Automation Enthusiast**. I have a strong foundation in building, deploying, and optimizing machine learning models to solve real-world problems involving health diagnostics and intelligent bots. Currently, I am a **Bachelor of Engineering** student at **Chandigarh University** (2022-2026).
 
 ---
 
@@ -11,12 +11,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI/ML Libraries**
+**AI/ML Libraries & Concepts**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+* **Expertise in:** Deep Learning, MLOps, Explainable AI, and Automation.
 
 **Tools & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -27,9 +28,14 @@
 
 ###  Featured Projects
 
-* [cite_start]**Parkinson's Detection:** Developed ML models (SVM, Random Forest, Neural Networks) to analyze voice features, achieving **94% accuracy**[cite: 28, 30, 31].
-* [cite_start]**Explainable AI (XAI) in Wearables:** Engineered an end-to-end pipeline using **XGBoost** and **SHAP** for health score prediction with 90% accuracy[cite: 32, 33, 35, 36].
-* [cite_start]**Discord Chatbot:** Built a real-time bot using **Discord APIs** and deployed it on **AWS EC2** for scalability[cite: 37, 40, 42].
+* **[Early Detection of Parkinson’s](https://github.com/amansingh903/Early-Detection-of-Parkinsons)** * Developed ML models to analyze voice features and detect Parkinson's patterns with **94% accuracy**.  
+    * Implemented **SVM, Random Forest, and Neural Network** algorithms using cross-validation for reliability.
+
+* **[XAI for Wearables](https://github.com/amansingh903/XAI-for-Wearables)** * Engineered an end-to-end ML pipeline for health score prediction and anomaly detection.  
+    * Applied **SHAP** for model explainability with interactive visualizations and used **XGBoost** for classification.
+
+* **[Poketwo Autocatcher](https://github.com/amansingh903/Poketwo-Autocatcher)** * Built a Discord chatbot enabling seamless user communication via powerful APIs like **discord.py-self** and **pycord**.  
+    * Deployed on **AWS EC2** to ensure reliable uptime and scalability for concurrent users].
 
 ---
 
@@ -39,9 +45,10 @@
 
 ---
 
-### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/aman-2e](https://linkedin.com/in/aman-2e) 
-- **Email:** [amansingh72255@gmail.com](mailto:amansingh72255@gmail.com) 
+###  How to reach me:
+* **LinkedIn:** [linkedin.com/in/aman-2e](https://linkedin.com/in/aman-2e) [cite: 5]
+* **Email:** [amansingh72255@gmail.com](mailto:amansingh72255@gmail.com) [cite: 5]
+* **GitHub:** [github.com/amansingh903](https://github.com/amansingh903) [cite: 5]
 
 ---
 *“When I'm not coding, you can find me on the chess board or the badminton court.”* ♟️🏸
